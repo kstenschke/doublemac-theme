@@ -34,14 +34,12 @@ double commander's default icon theme)
 | -------------------------- | ------------------------------------------------ | --------------------------------------------------------- |
 | cm_about                   | Google Material Design icons                     | Creative Commons (Attribution-Share Alike 3.0 Unported)   |
 | cm_calculatespace          | Glyphs by Artyom Khamitov                        | Creative Commons (Attribution 3.0 Unported)               |
-| cm_copyfullnamestoclip.png | Gentleface.com / Wireframe mono icons            | Creative Commons (Attribution-Noncommercial 3.0 Unported) | 
-| cm_editcomment.png         | Splashyfish by Dat Nguyen                        | Free for commercial use                                   |             
-| cm_packfiles               | Freepic http://www.flaticon.com/                 | Creative Commons                                          |
+| cm_copyfullnamestoclip.png | Gentleface.com / Wireframe mono icons            | Creative Commons (Attribution-Noncommercial 3.0 Unported) |
+| cm_editcomment.png         | Splashyfish by Dat Nguyen                        | Free for commercial use                                   |
 | cm_extractfiles            | Freepic http://www.flaticon.com/                 | Creative Commons                                          |
 | cm_multirename.png         | GlyphPack by Design Revision                     | Free for commercial use                                   |
+| cm_packfiles               | Freepic http://www.flaticon.com/                 | Creative Commons                                          |
 | cm_refresh.png             | Ionicons                                         | MIT License                                               |
 | cm_search.png              | 16x16 Free Application Icons by Victor Petrovich | Creative Commons (Attribution 3.0 Unported)               |
-| cm_visithomepage.png       | Github Octicons                                  | MIT License                                               | 
+| cm_visithomepage.png       | Github Octicons                                  | MIT License                                               |
 | system_search.png          | Basic icon element by Chaunt is Industries       | Creative Commons (Attribution 3.0 Unported)               |
-
- 
