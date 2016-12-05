@@ -1,7 +1,7 @@
 "DoubleMac" theme for double commander
 ======================================
  
-A theme intended to make double commander more visually matching w/ Mac OS.
+A dark color theme with icons matching the visual style of Mac OS.
 
 ![DoubleMac](https://github.com/kstenschke/doublemac-theme/blob/master/screenshot.png?raw=true)
 
