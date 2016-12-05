@@ -1,5 +1,0 @@
-﻿Author of the Double Commander icon is Андрей Гудяк (Andryei Gudyak).
-
-The source file is dc.ai.
-SVG files are generated from it.
-The "colored" directory contains some early versions of the icon with different colors.
