@@ -1,4 +1,4 @@
-"DoubleMac" theme for double commander
+"DoubleMac" theme for Double Commander
 ======================================
  
 A dark color theme for [Double Commander](http://doublecmd.sourceforge.net/) with icons matching the visual style of Mac OS.
@@ -18,6 +18,7 @@ Notices
   
 * The icon theme is not covering 100% of the icons double commander contains.
 * The theme is meant to be used with a toolbar height of 26 with icons in 22x22 pixel size.
+* The theme uses the Hack font which can be [downloaded from](http://sourcefoundry.org/hack/)
   
   
 Authors and license
