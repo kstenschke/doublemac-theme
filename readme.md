@@ -24,7 +24,8 @@ Notices
 Authors and license
 -------------------
  
-The "DoubleMac" theme was created in 2016 by Kay Stenschke.
+This theme was created in 2016 by Kay Stenschke.
+
 The "DoubleMac" theme is licensed under the Creative Commons (Attribution-Share Alike 3.0 Unported) License
 
 The following icons from third party sources were adapted for creating this theme: 
