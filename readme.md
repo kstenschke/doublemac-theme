@@ -12,6 +12,13 @@ Installation (Mac OS)
 2. Browse to: Contents > MacOS
 3. Paste (overwrite existing files) all files from "theme" directory
  
+ 
+Notices 
+-------
+  
+* The icon theme is not covering 100% of the icons with double commander.
+* The theme is meant to be used with a toolbar height of 26 with icons in 22x22 pixel size.
+  
   
 Authors and license
 -------------------
