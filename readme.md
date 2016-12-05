@@ -4,15 +4,15 @@
 A theme intended to make double commander more visually matching w/ Mac OS.
 
 
-h2. Installation (Mac OS)
--------------------------
+Installation (Mac OS)
+---------------------
 1. Open the package contents of your double commander application in finder.
 2. Browse to: Contents > MacOS
 3. Paste (overwrite existing files) all files from "theme" directory
  
   
-h2. Authors and license
------------------------
+Authors and license
+-------------------
  
 The "DoubleMac" theme was created in 2016 by Kay Stenschke.
 The "DoubleMac" theme is licensed under the Creative Commons (Attribution-Share Alike 3.0 Unported) License
