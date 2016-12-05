@@ -3,6 +3,8 @@
  
 A theme intended to make double commander more visually matching w/ Mac OS.
 
+![DoubleMac](https://github.com/kstenschke/doublemac-theme/blob/master/screenshot.png?raw=true)
+
 
 Installation (Mac OS)
 ---------------------
