@@ -18,7 +18,7 @@ Notices
   
 * The icon theme is not covering 100% of the icons double commander contains.
 * The theme is meant to be used with a toolbar height of 26 with icons in 22x22 pixel size.
-* The theme uses the Hack font which can be [downloaded from](http://sourcefoundry.org/hack/)
+* The theme uses the Hack font which can be [downloaded from http://sourcefoundry.org/hack/](http://sourcefoundry.org/hack/)
   
   
 Authors and license
