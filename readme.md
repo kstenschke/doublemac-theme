@@ -16,7 +16,7 @@ Installation (Mac OS)
 Notices 
 -------
   
-* The icon theme is not covering 100% of the icons double commander contains.
+* This theme does not cover 100% of the icons Double Commander contains.
 * The theme is meant to be used with a toolbar height of 32 with icons in 22x22 pixel size.
   
   
