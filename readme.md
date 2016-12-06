@@ -8,7 +8,7 @@ Icon theme for [Double Commander](http://doublecmd.sourceforge.net/) matching th
 
 Installation (Mac OS)
 ---------------------
-1. Open the package contents of your double commander application in finder.
+1. Open the package contents of your double commander application
 2. Browse to: Contents > MacOS
 3. Paste (overwrite existing files) all files from "theme" directory
  
@@ -25,7 +25,7 @@ Authors and license
  
 This icon theme was created in 2016 by Kay Stenschke.
 
-Licensed under the Creative Commons (Attribution-Share Alike 3.0 Unported) License
+Licensed under the Creative Commons (Attribution-Share Alike 3.0 Unported) License.
 
 The following icons from third party sources were adapted for creating this theme: 
 (icons that are not mentioned were created anew for this theme or adapted from the icons included with 
