@@ -1,5 +1,5 @@
-"DoubleMac" theme for Double Commander
-======================================
+"DoubleMac" icon theme for Double Commander
+===========================================
  
 Icon theme for [Double Commander](http://doublecmd.sourceforge.net/) matching the visual style of Mac OS.
 
