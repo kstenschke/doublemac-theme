@@ -8,7 +8,7 @@ Icon theme for [Double Commander](http://doublecmd.sourceforge.net/) matching th
 
 Installation (Mac OS)
 ---------------------
-1. Open the package contents of your double commander application
+1. Open the package contents of your Double Commander application
 2. Browse to: Contents > MacOS
 3. Paste (overwrite existing files) all files from "theme" directory
  
