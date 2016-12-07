@@ -29,7 +29,7 @@ Licensed under the Creative Commons (Attribution-Share Alike 3.0 Unported) Licen
 
 The following icons from third party sources were adapted for creating this theme: 
 (icons that are not mentioned were created anew for this theme or adapted from the icons included with 
-double commander's default icon theme)
+Double Commander's default icon theme)
 
 | Filename                      | Icon Set / Author                                    | License                                                   |
 | ----------------------------- | ---------------------------------------------------- | --------------------------------------------------------- |
