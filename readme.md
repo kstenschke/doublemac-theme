@@ -10,7 +10,7 @@ Installation (Mac OS)
 ---------------------
 1. Open the package contents of your Double Commander application and browse to: Contents > MacOS
 2. Paste (overwrite existing files) all files from "theme" directory
-3. Within Double Commander (Configuration > Options > Toolbar) set the toolbar height to 32px and icons to 22x22 pixel size
+3. Within Double Commander (Configuration > Options > Toolbar) set the toolbar height to 32 and icons to 22x22 pixel size
 
 
 Notices 
