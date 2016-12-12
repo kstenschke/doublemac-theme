@@ -39,7 +39,7 @@ Double Commander's default icon theme)
 | cm_extractfiles, cm_packfiles | Elysium Icons by HazelDev                            | Creative Commons (Attribution 3.0 Unported)               |
 | cm_multirename.png            | GlyphPack by Design Revision                         | Free for commercial use                                   |
 | cm_options                    | Streamline - Free by Webalys  http://www.webalys.com | Free for commercial use                                   |
-| cm_refreshd.png               | Ionicons                                             | MIT License                                               |
+| cm_refreshd.png, cm_exit      | Ionicons                                             | MIT License                                               |
 | cm_search.png                 | 16x16 Free Application Icons by Victor Petrovich     | Creative Commons (Attribution 3.0 Unported)               |
 | cm_visithomepage.png          | Github Octicons                                      | MIT License                                               |
 | system_search.png             | Basic icon element by Chaunt is Industries           | Creative Commons (Attribution 3.0 Unported)               |
