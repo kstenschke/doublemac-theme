@@ -8,18 +8,17 @@ Icon theme for [Double Commander](http://doublecmd.sourceforge.net/) matching th
 
 Installation (Mac OS)
 ---------------------
-1. Open the package contents of your Double Commander application
-2. Browse to: Contents > MacOS
-3. Paste (overwrite existing files) all files from "theme" directory
- 
- 
+1. Open the package contents of your Double Commander application and browse to: Contents > MacOS
+2. Paste (overwrite existing files) all files from "theme" directory
+3. Within Double Commander (Configuration > Options > Toolbar) set the toolbar height to 32 and icons to 22x22 pixel size
+
+
 Notices 
 -------
-  
+
 * This theme does not cover 100% of the icons Double Commander contains.
-* The theme is meant to be used with a toolbar height of 32 with icons in 22x22 pixel size.
-  
-  
+
+
 Authors and license
 -------------------
  
