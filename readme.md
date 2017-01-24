@@ -22,11 +22,11 @@ Notices
 Authors and license
 -------------------
  
-This icon theme was created in 2016 by Kay Stenschke.
+This icon theme was created in 2016-2017 by Kay Stenschke.
 
 Licensed under the Creative Commons (Attribution-Share Alike 3.0 Unported) License.
 
-The following icons from third party sources were adapted for creating this theme: 
+The following icons from third party sources were used in- or adapted for creating this theme: 
 (icons that are not mentioned were created anew for this theme or adapted from the icons included with 
 Double Commander's default icon theme)
 
