@@ -32,14 +32,14 @@ Double Commander's default icon theme)
 
 | Filename                              | Icon Set / Author                                    | License                                                   |
 | ------------------------------------- | ---------------------------------------------------- | --------------------------------------------------------- |
-| cm_about                              | Google Material Design icons                         | Creative Commons (Attribution-Share Alike 3.0 Unported)   |
-| cm_calculatespace                     | Glyphs by Artyom Khamitov                            | Creative Commons (Attribution 3.0 Unported)               |
+| cm_about                              | Google Material Design icons                         | [Creative Commons (Attribution-Share Alike 3.0 Unported)](https://creativecommons.org/licenses/by-sa/3.0/)    |
+| cm_calculatespace                     | Glyphs by Artyom Khamitov                            | [Creative Commons (Attribution 3.0 Unported)](https://creativecommons.org/licenses/by/3.0/)               |
 | cm_copyfullnamestoclip.png            | Gentleface.com / Wireframe mono icons                | Creative Commons (Attribution-Noncommercial 3.0 Unported) |
 | cm_editcomment.png                    | Splashyfish by Dat Nguyen                            | Free for commercial use                                   |
 | cm_extractfiles, cm_packfiles         | Elysium Icons by HazelDev                            | Creative Commons (Attribution 3.0 Unported)               |
 | cm_multirename.png                    | GlyphPack by Design Revision                         | Free for commercial use                                   |
 | cm_options                            | Streamline - Free by Webalys  http://www.webalys.com | Free for commercial use                                   |
-| cm_exit, cm_refreshd.png, cm_qickview | Ionicons                                             | MIT License                                               |
+| cm_exit, cm_refreshd.png, cm_qickview | Ionicons                                             | [MIT License](https://opensource.org/licenses/mit-license.php)                                               |
 | cm_search.png                         | 16x16 Free Application Icons by Victor Petrovich     | Creative Commons (Attribution 3.0 Unported)               |
 | cm_visithomepage.png                  | Github Octicons                                      | MIT License                                               |
 | drive-harddisk                        | Hbons Discovery                                      | Creative Commons (Attribution-Share Alike 3.0 Unported)   |
