@@ -30,16 +30,17 @@ The following icons from third party sources were adapted for creating this them
 (icons that are not mentioned were created anew for this theme or adapted from the icons included with 
 Double Commander's default icon theme)
 
-| Filename                      | Icon Set / Author                                    | License                                                   |
-| ----------------------------- | ---------------------------------------------------- | --------------------------------------------------------- |
-| cm_about                      | Google Material Design icons                         | Creative Commons (Attribution-Share Alike 3.0 Unported)   |
-| cm_calculatespace             | Glyphs by Artyom Khamitov                            | Creative Commons (Attribution 3.0 Unported)               |
-| cm_copyfullnamestoclip.png    | Gentleface.com / Wireframe mono icons                | Creative Commons (Attribution-Noncommercial 3.0 Unported) |
-| cm_editcomment.png            | Splashyfish by Dat Nguyen                            | Free for commercial use                                   |
-| cm_extractfiles, cm_packfiles | Elysium Icons by HazelDev                            | Creative Commons (Attribution 3.0 Unported)               |
-| cm_multirename.png            | GlyphPack by Design Revision                         | Free for commercial use                                   |
-| cm_options                    | Streamline - Free by Webalys  http://www.webalys.com | Free for commercial use                                   |
-| cm_exit, cm_refreshd.png, cm_qickview      | Ionicons                                             | MIT License                                               |
-| cm_search.png                 | 16x16 Free Application Icons by Victor Petrovich     | Creative Commons (Attribution 3.0 Unported)               |
-| cm_visithomepage.png          | Github Octicons                                      | MIT License                                               |
-| system_search.png             | Basic icon element by Chaunt is Industries           | Creative Commons (Attribution 3.0 Unported)               |
+| Filename                              | Icon Set / Author                                    | License                                                   |
+| ------------------------------------- | ---------------------------------------------------- | --------------------------------------------------------- |
+| cm_about                              | Google Material Design icons                         | Creative Commons (Attribution-Share Alike 3.0 Unported)   |
+| cm_calculatespace                     | Glyphs by Artyom Khamitov                            | Creative Commons (Attribution 3.0 Unported)               |
+| cm_copyfullnamestoclip.png            | Gentleface.com / Wireframe mono icons                | Creative Commons (Attribution-Noncommercial 3.0 Unported) |
+| cm_editcomment.png                    | Splashyfish by Dat Nguyen                            | Free for commercial use                                   |
+| cm_extractfiles, cm_packfiles         | Elysium Icons by HazelDev                            | Creative Commons (Attribution 3.0 Unported)               |
+| cm_multirename.png                    | GlyphPack by Design Revision                         | Free for commercial use                                   |
+| cm_options                            | Streamline - Free by Webalys  http://www.webalys.com | Free for commercial use                                   |
+| cm_exit, cm_refreshd.png, cm_qickview | Ionicons                                             | MIT License                                               |
+| cm_search.png                         | 16x16 Free Application Icons by Victor Petrovich     | Creative Commons (Attribution 3.0 Unported)               |
+| cm_visithomepage.png                  | Github Octicons                                      | MIT License                                               |
+| drive-harddisk                        | Hbons Discovery                                      | Creative Commons (Attribution-Share Alike 3.0 Unported)   |
+| system_search.png                     | Basic icon element by Chaunt is Industries           | Creative Commons (Attribution 3.0 Unported)               |
