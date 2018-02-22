@@ -10,14 +10,14 @@ Installation
 ------------
 
 #### On Mac OS
-1. Open the package contents of your Double Commander application and browse to: Contents > MacOS
-2. Paste (overwrite existing files) all files from "theme" directory
-3. Within Double Commander (Configuration > Options > Toolbar) set the toolbar height to 32 and icons to 22x22 pixel size
+1. Open the package contents of your Double Commander application and browse to: `Contents > MacOS`
+2. Paste (overwrite existing files) all files from `theme` directory
+3. Within Double Commander (`Configuration > Options > Toolbar`) set the toolbar height to 32 and icons to 22x22 pixel size
 
 #### On Linux
-1. Open the Double Commander directory with root privileges in your files browser (e.g. Nautilus on Ubuntu / Nemo on Linux Mint, etc.), e.g. in <pre>/usr/share/doublecmd</pre>
-2. Paste (overwrite existing files) all files from "dctheme" directory
-3. Within Double Commander (Configuration > Options > Toolbar) set the toolbar height to 32 and icons to 22x22 pixel size
+1. Open the Double Commander directory with root privileges in your files browser (e.g. Nautilus on Ubuntu / Nemo on Linux Mint, etc.), e.g. in `/usr/share/doublecmd`
+2. Paste (overwrite existing files) all files from `dctheme` directory
+3. Within Double Commander (`Configuration > Options > Toolbar`) set the toolbar height to 32 and icons to 22x22 pixel size
 
 
 Notices 
