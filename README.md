@@ -1,7 +1,7 @@
 "DoubleMac" icon theme for Double Commander
 ===========================================
  
-Icon theme for [Double Commander](http://doublecmd.sourceforge.net/) matching the visual style of Mac OS.
+Icon theme for [Double Commander](http://doublecmd.sourceforge.net/) matching the visual style of Mac OS (with an adaptation of the look on e.g. Linux Mint)
 
 ![DoubleMac](https://github.com/kstenschke/doublemac-theme/blob/master/screenshot.png?raw=true)
 
